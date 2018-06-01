@@ -9,6 +9,7 @@ using MyProject.Authorization.Roles;
 using MyProject.Authorization.Users;
 using MyProject.Configuration;
 using MyProject.MultiTenancy;
+using MyProject.Tasks;
 
 namespace MyProject
 {

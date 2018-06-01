@@ -51,8 +51,8 @@ namespace MyProject.Web
                     PageNames.Tasks,
                     L("Tasks"),
                     url: "Tasks",
-                    icon: ""
-                    //requiredPermissionName: PermissionNames.Pages_Tasks
+                    icon: "local_offer",
+                    requiredPermissionName: PermissionNames.Pages_Tasks
                     )
                 )
                 .AddItem(

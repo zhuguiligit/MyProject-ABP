@@ -78,5 +78,6 @@
     <text name="Delete">Delete</text>
 
 
+    <text name="Tasks" value="Tasks"/>
   </texts>
 </localizationDictionary>
